@@ -10,7 +10,10 @@ In this repository you will find all my work on football analytics. Projects in 
 Contains the data used in my works from various providers. Data available for free and under an open licence.
 
 ### Code
-Contains file with code source.
+Contains files with source code.
+
+### Viz
+Contains files with visualisations.
 
 ## Technology stack
 
