@@ -7,10 +7,10 @@
 In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. 
 
 ### Dataset
-Folder contains the data used in my works from various providers. Data available for free and under an open licence.
+Contains the data used in my works from various providers. Data available for free and under an open licence.
 
 ### Code
-Folder contains file with code source.
+Contains file with code source.
 
 ## Technology stack
 
