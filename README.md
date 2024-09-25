@@ -17,7 +17,7 @@ Folder contains the data used in my works from various providers. Data available
 - [Visual Code Studio](https://code.visualstudio.com/)
 - [Colaboratory](https://colab.research.google.com/)
 
-### Packages for data pre-processing
+### Packages
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 - [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/#)
