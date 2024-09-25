@@ -5,6 +5,7 @@
 
 ### General information
 In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. 
+Data previously properly prepared into a usable form.
 
 ### Dataset
 Contains the data used in my works from various providers. Data available for free and under an open licence.
