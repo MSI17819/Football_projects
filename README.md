@@ -4,8 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@123michal86)
 
 ### General information
-In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. 
-Data previously properly prepared into a usable form.
+In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. Data previously properly prepared into a usable form.
 
 ### Dataset
 Contains the data used in my works from various providers. Data available for free and under an open licence.
