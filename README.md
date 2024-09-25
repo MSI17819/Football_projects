@@ -2,12 +2,13 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tossingdata.svg?style=social&label=Follow%20%40tossingdata)](https://twitter.com/tossingdata)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSI17819)
+[![Medium](https://medium.com/@123michal86)
 
 ### General information
-In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. y website - [Tramwaj Kraków](https://tramwajkrakow.pl/) 
+In this repository you will find all my work on football analytics. Projects in data visualisation, analytics as well as machine learning and data science. 
 
 ### Dataset
-the dataset folder contains the data used in the analyses from various suppliers.
+Folder contains the data used in my works from various providers.
 
 ## Technology stack
 
@@ -25,6 +26,7 @@ the dataset folder contains the data used in the analyses from various suppliers
 ### Data visualisation library
 - [Matplotlib](https://matplotlib.org/)
 - [Pitch Basics](https://mplsoccer.readthedocs.io/en/latest/gallery/pitch_setup/plot_pitches.html)
+
 ## Status
 
 Project is: _in progress_
