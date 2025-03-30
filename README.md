@@ -10,7 +10,7 @@ Data previously properly prepared into a usable form.
 
 1) *Women npxG model* - simple non-penalty xG model based on women's football data to analyze overall football shots trends [code](https://github.com/MSI17819/Football_projects/blob/main/Code/Women_npxG_model%20.ipynb) and [visualisation](https://github.com/MSI17819/Football_projects/tree/main/Viz)
 
-2) *General xT model* - uncomplicated Ball Possession Value (PV) model based on two seasons Women's Super Leagues data. First [notebook]() include code for xT matrix calculation, secound [notebook]() contain players anaylysis from one tournament - Women Uefa Euro 2022 and one season - Women Super League season 2020/2021. Project [vizualization]()    
+2) *General xT model* - uncomplicated Ball Possession Value (PV) model based on two seasons Women's Super Leagues data to analyse player performance. The first [notebook]() include code for xT matrix calculation, the secound [notebook]() contain code for players anaylysis from one tournament - Women Uefa Euro 2022 and separately one season - Women Super League season 2020/2021. Project [vizualization]()    
 
 ### Dataset
 Contains the data used in my works from various providers. Data available for free and under an open licence.
