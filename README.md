@@ -8,8 +8,7 @@ In this repository you will find all my work on football analytics.
 Projects in data visualisation, analytics as well as machine learning and data science. 
 Data previously properly prepared into a usable form.
 
-1) *Women npxG model* - simple non-penalty xG model based on women's football data to analyze overall football shots trends. Project [code](https://github.com/MSI17819/Football_projects/blob/main/Code/Women_npxG_model%20.ipynb) and [visualisation](https://github.com/MSI17819/Football_projects/tree/main/Viz)
-Project Medium [article](https://medium.com/@123michal86/can-xg-shape-the-way-we-think-about-football-ffc9ce10684b)
+1) *Women npxG model* - simple non-penalty xG model based on women's football data to analyze overall football shots trends. Project [code](https://github.com/MSI17819/Football_projects/blob/main/Code/Women_npxG_model%20.ipynb), [visualisation](https://github.com/MSI17819/Football_projects/tree/main/Viz) and Mednium [article](https://medium.com/@123michal86/can-xg-shape-the-way-we-think-about-football-ffc9ce10684b)
 
 3) *General xT model* - uncomplicated Ball Possession Value (PV) model based on two seasons Women's Super Leagues data to analyse player performance. The first [notebook]() *xT calculation* include code for xT matrix calculation, the secound [notebook]() *Analysis* contain code for players anaylysis from one tournament - Women Uefa Euro 2022 and separately one season - Women Super League season 2020/2021. Project [vizualization]()    
 
