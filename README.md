@@ -8,6 +8,8 @@ In this repository you will find all my work on football analytics.
 Projects in data visualisation, analytics as well as machine learning and data science. 
 Data previously properly prepared into a usable form.
 
+1) Women npxG model - simple non-penalty xG model based on women's football data to analyze overall football shots trends [code](https://github.com/MSI17819/Football_projects/blob/main/Code/Women_npxG_model%20.ipynb) and [visualisation]()
+
 ### Dataset
 Contains the data used in my works from various providers. Data available for free and under an open licence.
 
